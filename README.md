@@ -3,7 +3,7 @@
 This project explores deep learning methods to automatically colorize grayscale images using:
 - A custom-built **Autoencoder**
 - A **Conditional GAN (cGAN)**
-Apply pply both models to the **CIFAR-10 dataset** and compare their colorization capabilities.
+Apply both models to the **CIFAR-10 dataset** and compare their colorization capabilities.
 
 ---
 Run this notebook directly in **Google Colab** (recommended).
